@@ -3,5 +3,6 @@
 ## Article Index
 
 <!-- backlink-building:github-repository:start -->
-_No articles published yet._
+### post.edu.pe
+- [Peru's Three Regions: Why Geography Matters More Than the Itinerary](post.edu.pe/peru-s-three-regions-why-geography-matters-more-than-the-itinerary.md)
 <!-- backlink-building:github-repository:end -->
